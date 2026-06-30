@@ -1,2 +1,2 @@
 # pythonDSA
-This is my ppythonDSA journy
+This is my pythonDSA journy
